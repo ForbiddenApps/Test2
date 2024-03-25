@@ -9,6 +9,7 @@ Voice Cloner is a tool for social engineering attacks.
 + Clone any type of voice, language and accent.
 + Attach voice samples for AI to learn.
 + Text to speech using the cloned voice.
++ Download the generate cloned voice in mp3 format.
 + No installation required.
 + Light.
 + Easy to use.
