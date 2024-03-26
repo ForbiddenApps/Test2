@@ -16,9 +16,9 @@ Voice Cloner is a tool for social engineering attacks.
 
 *Note: The more content you give to the AI, the better results it will give you. With 5 minutes of content it gives really very good results. Keep in mind that they must be clean sound samples, that is, they have good sound quality and do not contain echoes or background noise.*
 
-## How does it work? ❓
+## How does it work? 🧪 
 
-+ [Demo video](https://www.youtube.com)
++ [Demo video](https://www.youtube.com) (DEMO VIDEO COMING SOON)
 
 ## Download 📥
 
