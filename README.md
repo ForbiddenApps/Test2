@@ -20,17 +20,19 @@ Voice Cloner is a tool for social engineering attacks.
 
 + [Demo video](https://www.youtube.com) (DEMO VIDEO COMING SOON)
 
-## Download 📥
+## Download demo application 📥
 
 + [Download](https://github.com/ForbiddenApps/Voice-Cloner/releases/download/1.0/Voice_Cloner.rar) for Windows (Lastest version 1.0)
 
+*Note contact here to get 1 pincode with 1 use to test the application: https://t.me/ForbiddenApps*
+
  ## Buy the source code </>
  
-If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in Python language and includes the pincode verification system in case you want to limit sendings in the application to other users or set up your own service. It also includes information about how to configure the application.
+If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in Python and includes information about how to configure the application.
 
 Payment method: **Bitcoin**, **Litecoin** and **Ethereum**.
 
-Telegram: **https://t.me/ForbiddenApps**
+Contact: **https://t.me/ForbiddenApps**
 
 # DISCLAIMER 📜
 
