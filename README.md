@@ -24,7 +24,7 @@ Voice Cloner is a tool for social engineering attacks.
 
 + [Download](https://github.com/ForbiddenApps/Voice-Cloner/releases/download/1.0/Voice-Cloner.rar) for Windows (Lastest version 1.0)
 
-*Note contact here to get 1 pincode with 1 use to test the application: https://t.me/ForbiddenApps*
+*Get in touch here to get 1 pincode with one use to test the application https://t.me/ForbiddenApps*
 
  ## Buy the source code </>
  
