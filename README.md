@@ -1,6 +1,7 @@
 # Voice Cloner 🗣️
 
-Voice Cloner is a tool for social engineering attacks.
+Voice Cloner is a tool for clone realistic voices for social engineering attacks.
+
 
 ![voice_img](https://github.com/ForbiddenApps/Voice-Cloner/assets/164560634/48514447-28e4-46e1-b894-f22b1ff13caf)
 
